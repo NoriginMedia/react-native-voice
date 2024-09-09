@@ -12,5 +12,6 @@ node_modules
 *.jar
 
 build/
+.gradle/
 VoiceModule.iml
 yarn-error.log
